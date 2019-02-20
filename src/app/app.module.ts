@@ -23,11 +23,11 @@ import { CompanyOwnerDashboardComponent } from './company-owner/company-owner-da
     RegisterComponent,
     MessageComponent,
     CompanyOwnerDashboardComponent
-    
+
   ],
   imports: [
-    NgbModule,NgbPaginationModule, NgbAlertModule,
-    BrowserModule,ReactiveFormsModule,
+    NgbModule, NgbPaginationModule, NgbAlertModule,
+    BrowserModule, ReactiveFormsModule,
     CompanyRoutingModule,
     HttpClientModule
   ],
